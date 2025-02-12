@@ -1,6 +1,6 @@
-# Backpacking Rectangles
+# Rectangles Packing
 
-Backpacking Rectangles is a Java application that solves a neat puzzle: given a set of rectangles, the program finds all the possible ways to combine them into one larger, complete rectangle without gaps or overlaps. It’s like figuring out the perfect puzzle where every piece must fit exactly right!
+Rectangles Packing is a Java application that solves a neat puzzle: given a set of rectangles, the program finds all the possible ways to combine them into one larger, complete rectangle without gaps or overlaps. It’s like figuring out the perfect puzzle where every piece must fit exactly right!
 
 ## What the Project Does
 
